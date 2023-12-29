@@ -6,7 +6,7 @@
 
 Spectrogram Dataset for classification Earthquake Station Quality (InaTEWS Earthquake Station).
 
-<a href="https://iopscience.iop.org/article/10.1088/1755-1315/1276/1/012046#artAbst">https://iopscience.iop.org/article/10.1088/1755-1315/1276/1/012046#artAbst</a>
+<a target="_blank" href="https://iopscience.iop.org/article/10.1088/1755-1315/1276/1/012046#artAbst">https://iopscience.iop.org/article/10.1088/1755-1315/1276/1/012046#artAbst</a>
 
 
 ```
